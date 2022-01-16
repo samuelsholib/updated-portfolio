@@ -1,7 +1,7 @@
 # updated-portfolio-two
 This is my updated potpofolio.
 It has some informations about me.
-It also has my contacts.
+As well as my contacts.
 And my work experience.
 For information checkout my resume in the repo and my linkedin link below.
 #Linkedin = https://www.linkedin.com/in/samuel-sholib-2611271b1/
@@ -14,6 +14,7 @@ https://samuelsholib.github.io/work-day-scheduler/
 https://samuelsholib.github.io/weather-map-Api/
 
  https://samuelsholib.github.io/code-quiz/
+<<<<<<< HEAD
 
 
 
@@ -29,3 +30,5 @@ https://samuelsholib.github.io/weather-map-Api/
 
 
  https://github.com/samuelsholib/updated-portfolio-two/blob/main/weather-dashboard.png
+=======
+>>>>>>> 1613ba0eac3e0594b5ecbca9a5f0cb82ad94f174
