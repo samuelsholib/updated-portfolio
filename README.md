@@ -14,21 +14,6 @@ https://samuelsholib.github.io/work-day-scheduler/
 https://samuelsholib.github.io/weather-map-Api/
 
  https://samuelsholib.github.io/code-quiz/
-<<<<<<< HEAD
 
 
-
-
- https://github.com/samuelsholib/updated-portfolio-two/blob/b39d550f957844651c3a0270e3b57fc0a5aead9d/music%20app.png
-
-
-
-
- https://github.com/samuelsholib/updated-portfolio-two/blob/b39d550f957844651c3a0270e3b57fc0a5aead9d/password-generator.png
-
-
-
-
- https://github.com/samuelsholib/updated-portfolio-two/blob/main/weather-dashboard.png
-=======
->>>>>>> 1613ba0eac3e0594b5ecbca9a5f0cb82ad94f174
+ ![homework](url "password-generator.png");
