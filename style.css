@@ -10,15 +10,16 @@ body {
 
 .container {
     justify-content: flex-start;
-    width: 90%;
+    width: 80%;
     display: flex;
     flex-direction: row;
     margin-top: 25px;
+    margin-bottom: 25px;
     margin-left: 0%;
 }
 
 header {
-    width: 90%;
+    width: 80%;
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: blue;
@@ -80,9 +81,9 @@ main {
 .experience {
     margin-right: 20px;
     padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
+    width: fit-content;
+    /* clear: both;
+    float: right; */
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: blueviolet;
@@ -91,6 +92,7 @@ main {
 .experience {
     margin-bottom: 32px;
     color: #ffffff;
+    width: fit-content;
 }
 
 .experience h2 {
@@ -101,10 +103,14 @@ main {
 .projects {
     margin-bottom: 20px;
     padding: 50px;
-    width: fit-content;
-    height: 600px;
+    width: 80%;
+    height: fit-content;
     background-color: #0072bb;
     color: #ffffff;
+}
+
+li {
+    color: gold;
 }
 
 .projects h2 {
