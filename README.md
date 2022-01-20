@@ -49,4 +49,4 @@ https://samuelsholib.github.io/weather-map-Api/
 ![8/8 pictures](images/8th.png)
 
 
-Thank you!!!
+Thank you for going through my readme readers!!!
