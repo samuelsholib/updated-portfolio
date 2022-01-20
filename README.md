@@ -16,9 +16,11 @@ https://samuelsholib.github.io/weather-map-Api/
  https://samuelsholib.github.io/code-quiz/
 
 
- ![homework](url "https://github.com/samuelsholib/updated-portfolio-two/blob/b39d550f957844651c3a0270e3b57fc0a5aead9d/password-generator.png");
 
+<<<<<<< HEAD
 ## [First-of-eight-pictures-taken-from-my-live-deployed-app]
+=======
+>>>>>>> 6254ef5c631d4e90dced5d918339da21a83d60ad
 
 ![1/8 Pictures](images/1st.png);
 
@@ -46,4 +48,8 @@ https://samuelsholib.github.io/weather-map-Api/
 
 ## [Eightn-of-eight-pictures-taken-from-my-live-deployed-app]
 ![8/8 pictures](images/8th.png)
+<<<<<<< HEAD
 =======
+=======
+=======
+>>>>>>> 6254ef5c631d4e90dced5d918339da21a83d60ad
