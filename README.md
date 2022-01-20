@@ -18,7 +18,7 @@ https://samuelsholib.github.io/weather-map-Api/
 
 
 <<<<<<< HEAD
-## [First-of-eight-pictures-taken-from-my-live-deployed-app]
+## First-of-eight-pictures-taken-from-my-live-deployed-app
 =======
 >>>>>>> 6254ef5c631d4e90dced5d918339da21a83d60ad
 
