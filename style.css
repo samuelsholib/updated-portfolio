@@ -80,6 +80,8 @@ header .pic {
     height: fit-content;
     background-color: #0072bb;
     color: #ffffff;
+    padding-inline-end: 20px;
+    padding-block-end: 20px;
 }
 
 li {
@@ -94,21 +96,29 @@ li {
 .resume {
     width: 120%;
     margin-bottom: 20px;
+    padding-inline-end: 20px;
+    padding-block-end: 20px;
 }
 
 .weather {
     width: 80%;
     margin-bottom: 20px;
+    padding-inline-end: 20px;
+    padding-block-end: 20px;
 }
 
 .music {
     width: 80%;
     margin-bottom: 20px;
+    padding-inline-end: 20px;
+    padding-block-end: 20px;
 }
 
 .password {
     width: 80%;
     margin-bottom: 20px;
+    padding-inline-end: 20px;
+    padding-block-end: 20px;
 }
 
 .Contact {

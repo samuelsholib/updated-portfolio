@@ -18,24 +18,32 @@ https://samuelsholib.github.io/weather-map-Api/
 
  ![homework](url "https://github.com/samuelsholib/updated-portfolio-two/blob/b39d550f957844651c3a0270e3b57fc0a5aead9d/password-generator.png");
 
-<<<<<<< HEAD
+## [First-of-eight-pictures-taken-from-my-live-deployed-app]
+
 ![1/8 Pictures](images/1st.png);
+
+## [Second-of-eight-pictures-taken-from-my-live-deployed-app]
 
 ![2/8 pictures](images/2nd.png);
 
+## [Third-of-eight-pictures-taken-from-my-live-deployed-app]
+
 ![3/8 pictures](images/3rd.png);
+
+## [Fourth-of-eight-pictures-taken-from-my-live-deployed-app]
 
 ![4/8 pictures](images/4th.png);
 
+## [Fifth-of-eight-pictures-taken-from-my-live-deployed-app]
+
 ![5/8 pictures](images/5th.png);
+## [Sixth-of-eight-pictures-taken-from-my-live-deployed-app]
 
 ![6/8 pictures](images/6th.png);
+## [Seventh-of-eight-pictures-taken-from-my-live-deployed-app]
 
 ![7/8 pictures](images/7th.png);
 
+## [Eightn-of-eight-pictures-taken-from-my-live-deployed-app]
 ![8/8 pictures](images/8th.png)
 =======
-<div style="width:60px ; height:60px">
-![homework pic](/updated-portfolio-two/weather-dashboard.png?raw=true "Employee Data title")
-<div>
->>>>>>> f05328672f0a0ea7779e78f375b0d20030f7ce97
