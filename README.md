@@ -18,7 +18,7 @@ https://samuelsholib.github.io/weather-map-Api/
 
  ![homework](url "https://github.com/samuelsholib/updated-portfolio-two/blob/b39d550f957844651c3a0270e3b57fc0a5aead9d/password-generator.png");
 
-```
+
 ![1/8 Pictures](images/1st.png);
 
 ![2/8 pictures](images/2nd.png);
@@ -35,4 +35,3 @@ https://samuelsholib.github.io/weather-map-Api/
 
 ![8/8 pictures](images/8th.png)
 =======
-```
