@@ -5,7 +5,7 @@ As well as my contacts.
 And my work experience.
 For information checkout my resume in the repo and my linkedin link below.
 #Linkedin = https://www.linkedin.com/in/samuel-sholib-2611271b1/
-# The live deployed page == https://samuelsholib.github.io/updated-portfolio/
+The live deployed page will be found here https://samuelsholib.github.io/updated-portfolio/
 Below, I have added live deployed links to some of the works I have done individually or with group members. Check them out. 
 https://samuelsholib.github.io/project-one/
 
@@ -17,7 +17,7 @@ https://samuelsholib.github.io/weather-map-Api/
 
 
 
-<<<<<<< HEAD
+<!-- <<<<<<< HEAD -->
 ## First-of-eight-pictures-taken-from-my-live-deployed-app
 
 
