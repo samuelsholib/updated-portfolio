@@ -47,3 +47,6 @@ https://samuelsholib.github.io/weather-map-Api/
 
 ## Eightn-of-eight-pictures-taken-from-my-live-deployed-app
 ![8/8 pictures](images/8th.png)
+
+
+Thank you!!!
