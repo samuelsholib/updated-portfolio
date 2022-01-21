@@ -18,8 +18,9 @@ https://samuelsholib.github.io/weather-map-Api/
 
 
 <!-- <<<<<<< HEAD -->
-## First-of-eight-pictures-taken-from-my-live-deployed-app
 
+## First-of-eight-pictures-taken-from-my-live-deployed-app
+[Link text Here](https://samuelsholib.github.io/updated-portfolio/)
 
 ![1/8 Pictures](images/1st.png)
 
