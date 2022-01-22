@@ -1,134 +1,112 @@
-* {
-    box-sizing: border-box;
-    padding: 20;
-    margin: 0;
-    margin-left: 10px;
-}
-
-body {
-    background-color: gray;
-}
-
-header {
-    width: 80%;
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: blue;
-    color: #ffffff;
-    margin-left: 10px;
-}
-
-.contact a {
-    color: darkorange;
-}
-
-header h1 {
-    display: inline-block;
-    font-size: 48px;
-}
-
-header .pic {
-    width: 50%;
-    border-radius: 50%;
-}
-
-.links {
-    color: whitesmoke;
-}
-
-.links a {
-    color: goldenrod;
-}
-
-.about-me {
-    height: 100%;
-    width: 80%;
-    background-color: wheat;
-    color: blue;
-    margin-top: 20px;
-}
-
-.float-left {
+h1 {
+    margin-bottom: -17px;
+    margin-top: -23px;
+    background-color: #4aaaa5;
+    color: #ffff;
+    font-size: 53px;
+    line-height: 58px;
+    font-family: Georgia;
+    font-weight: 600;
+    height: 61px;
     float: left;
-    margin-right: 25px;
+    text-align: left;
+    margin-left: 5%;
 }
 
-.float-right {
-    float: right;
-    margin-left: 25px;
+h2 {
+    text-align: left;
+    color: #4aaaa5;
+    font-size: 30px;
+    line-height: 49px;
 }
 
-.experience {
-    margin-top: 20px;
-    width: 80%;
+.footer {
+    text-align: center;
+    height: 6%;
+    align-content: flex-end;
+    border-top: 3px solid #4aaaa5;
+}
+
+.container {
+    width: 100%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: blueviolet;
-    margin-bottom: 32px;
-    color: #ffffff;
+    margin-bottom: 10%;
+    margin-top: 5%;
 }
 
-.experience h2 {
-    margin-bottom: 10px;
-    text-align: center;
+.mr-2 {
+    width: 220px;
+    height: 150px;
 }
 
-.projects {
-    margin-bottom: 20px;
-    padding: 50px;
-    width: 80%;
-    height: fit-content;
-    background-color: #0072bb;
-    color: #ffffff;
-    padding-inline-end: 20px;
-    padding-block-end: 20px;
+.btn {
+    color: #dddddd;
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
+    margin-bottom: 3px;
 }
 
-li {
-    color: gold;
+@media screen and (max-width: 980px) {
+    /* The body's bg color will be #333 */
+    /* The wrapper's width will be 600px */
+    .container {
+        width: 100%;
+        height: 100%;
+    }
+    h1 {
+        font-size: 45px;
+    }
+    h2 {
+        font-size: 22px;
+    }
+    .footer {
+        height: 6%;
+    }
 }
 
-.projects h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+@media screen and (max-width: 768px) {
+    /* The body's bg color will be #333 */
+    /* The wrapper's width will be 600px */
+    .container {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 31%;
+    }
+    @viewport {
+        width: device-width;
+        height: device-height;
+    }
+    h1 {
+        font-size: 35px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    .footer {
+        height: 6%;
+    }
+    .p-3 {
+        padding: 6rem!important;
+    }
 }
 
-.resume {
-    width: 120%;
-    margin-bottom: 20px;
-    padding-inline-end: 20px;
-    padding-block-end: 20px;
-}
-
-.weather {
-    width: 80%;
-    margin-bottom: 20px;
-    padding-inline-end: 20px;
-    padding-block-end: 20px;
-}
-
-.music {
-    width: 80%;
-    margin-bottom: 20px;
-    padding-inline-end: 20px;
-    padding-block-end: 20px;
-}
-
-.password {
-    width: 80%;
-    margin-bottom: 20px;
-    padding-inline-end: 20px;
-    padding-block-end: 20px;
-}
-
-.Contact {
-    padding: 30px;
-    clear: both;
-    color: yellow;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-a:hover {
-    background-color: goldenrod;
+@media screen and (max-width: 640px) {
+    /* The body's bg color will be #333 */
+    /* The wrapper's width will be 600px */
+    .container {
+        width: 100%;
+        height: 100%;
+    }
+    .footer {
+        height: 6%;
+    }
+    @viewport {
+        width: device-width;
+    }
+    h1 {
+        font-size: 20px;
+    }
+    .p-3 {
+        padding: 8rem!important;
+    }
 }
