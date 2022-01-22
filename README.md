@@ -11,17 +11,16 @@ Below, I have added  deployed links to some of the works I have done individuall
 
 
 ## Coding quiz
-![Click here](https://samuelsholib.github.io/coding-quiz/)
-
-![Coding quiz demo](pictures/Coding quiz.png)
+![Coding Quiz](https://samuelsholib.github.io/coding-quiz/)
+![Demo](pictures/Coding quiz.png)
 
 ## Weather dashboard
 ![Click here](https://samuelsholib.github.io/weather-dashboard/)
-![Coding App demo](pictures/weather-dashboard.png)
+![weather App demo](pictures/weather-dashboard.png)
 
 ## Melody Medley
-![Click here](https://project2-full-stack-app.herokuapp.com/)
-![The App demo](pictures/music app.png)
+![Music App](https://project2-full-stack-app.herokuapp.com/)
+![Music App Demo](pictures/music app.png)
 
 
 Thank you for going through my readme!!!
