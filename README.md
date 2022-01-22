@@ -1,4 +1,4 @@
-# updated-portfolio-two
+# updated-portfolio
 This is my updated potpofolio.
 It has some informations about me.
 As well as my contacts.
