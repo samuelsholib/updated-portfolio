@@ -1,11 +1,18 @@
-# updated-portfolio-two
+# updated-portfolio
 This is my updated potpofolio.
 It has some informations about me.
 As well as my contacts.
 And my work experience.
 For information checkout my resume in the repo and my linkedin link below.
-#Linkedin = https://www.linkedin.com/in/samuel-sholib-2611271b1/
-The live deployed page will be found here https://samuelsholib.github.io/updated-portfolio/
+
+
+## Linkedin = https://www.linkedin.com/in/samuel-sholib-2611271b1/
+
+
+## The live deployed page will be found here https://samuelsholib.github.io/updated-portfolio/
+
+
+
 Below, I have added  deployed links to some of the works I have done individually and  with group members. Check them out. 
 
 
